@@ -5,5 +5,6 @@
 library mata_seo;
 
 export 'src/meta_seo_base.dart';
+export 'src/meta_seo_extension.dart';
 export 'src/robots_name.dart';
 export 'src/twitter_card.dart';
